@@ -1,6 +1,6 @@
 {
   "name": "vue2-toast2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A mobile toast plugin for vue2.",
   "keywords":["vue.js","vue-plugin","toast"],
   "main": "lib/index.js",
@@ -18,7 +18,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "meta": {
+  "metadata": {
     "email": "wskongdesheng@163.com"
   },
   "email": "wskongdesheng@163.com",
